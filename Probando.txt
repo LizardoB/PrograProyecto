@@ -1,4 +1,3 @@
-asdfasdf ñlkjkjñlkjlkj asdfasdfasdf ,mnmnm,nmmnmmmnnmmmmnjjjkjjkjjjjkjnduerijnjjkjkj nmll 
-
-
-juanito asdfasd jfjfjew m
+asdfasdf=null;
+juanito asdfasd jfjfjew;
+Se fue al lago a jugar;
